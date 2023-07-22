@@ -99,7 +99,7 @@ export const About = () => {
           </h2>
           <h2 className=" bg-sky-300 p-3 rounded-lg w-fit cursor-pointer hover:bg-sky-600">
             <a
-              href="https://drive.google.com/file/d/1NqLUzGvZITFdsNnZwn8xFXYQVD2m1vJc/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ser-GyUIQzCZZlhg-pzliyNFw8pesZrA/view?usp=drive_link"
               target="_blank"
             >
               Resume
