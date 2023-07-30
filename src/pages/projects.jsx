@@ -25,7 +25,7 @@ const projects = [
     description: "You can browse and see the most recent news for many categories in this project. To retrieve news, the newsapi API was used.",
     imageSrc: "https://www.freeiconspng.com/thumbs/news-icon/news-icon-24.png",
     liveLink: "https://youtu.be/idGPBShPa_M",
-    githubLink: "https://github.com/Suryodaya27/NewsApp"
+    githubLink: "https://github.com/Suryodaya27/news"
   },
   {
     id: 4,
