@@ -33,7 +33,7 @@ const projects = [
     description: "In this project, the tmdb API was used to retrieve data, and you can utilize the search filter to learn more about any movie.",
     imageSrc: "https://cdn-icons-png.flaticon.com/512/4221/4221419.png",
     liveLink: "https://youtu.be/GhLadKAe5uo",
-    githubLink: "https://github.com/Suryodaya27/movieDb"
+    githubLink: "https://github.com/Suryodaya27/movie"
   },
   {
     id: 5,
