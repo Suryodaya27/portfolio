@@ -35,10 +35,10 @@ export const About = () => {
               I am studying in Thadomal Shahani Engineering College(TSEC),Mumbai
               in the Electronics and Telecommunication branch, I am expected to
               graduate in 2024. My interest lies in full stack development, and I
-              have already solved <u>more than 500 problems on Leetcode</u>.
+              have already solved <u>more than 600 problems on Leetcode</u>.
             </m.p>
             <m.p
-              className="py-5  text-xl text-slate-200"
+              className="py-3  text-xl text-slate-200"
               initial={{ opacity: 0, x: -50 }}
               animate={{ opacity: 1, x: 0 }}
               exit={{ opacity: 0, x: 50 }}
