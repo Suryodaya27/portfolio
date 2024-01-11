@@ -35,7 +35,7 @@ export const About = () => {
               I am studying in Thadomal Shahani Engineering College(TSEC),Mumbai
               in the Electronics and Telecommunication branch, I am expected to
               graduate in 2024. My interest lies in full stack development, and I
-              have already solved <u>more than 650 problems on Leetcode</u>.
+              have already solved <u>more than 750 problems on Leetcode</u>.
             </m.p>
             <m.p
               className="py-3  text-xl text-slate-200"
@@ -61,7 +61,7 @@ export const About = () => {
               </div>
               <div className=" px-5 flex gap-10 ">
                 <a
-                  href="https://www.linkedin.com/in/suryodaya-pandey-b876631b1"
+                  href="https://www.linkedin.com/in/suryodaya27"
                   target="_blank"
                 >
                   <FaLinkedin size={30} />
