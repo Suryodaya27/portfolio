@@ -8,11 +8,11 @@ const projects = [
     title: "Prepbuddy - Mcq generator",
     description: "Generates mcq on users input data and it is a web-based platform designed to offer users an engaging way to test their knowledge",
     imageSrc: "https://img.icons8.com/?size=80&id=114416&format=png",
-    liveLink: "https://youtu.be/DJbpZsGdnKE",
+    liveLink: "https://prep-buddy-next.vercel.app",
     githubLink: "https://github.com/Suryodaya27/prpe-buddy"
   },
   {
-    id: 1,
+    id: 2,
     title: "Apna Cart - Online Grocery Store",
     description: "Platform for users to Buy groceries online with features such as cart updation and razorpay",
     imageSrc: "https://cdn-icons-png.flaticon.com/512/1261/1261163.png",
@@ -20,7 +20,7 @@ const projects = [
     githubLink: "https://github.com/Suryodaya27/marketPoint"
   },
   {
-    id: 2,
+    id: 3,
     title: "TrimTrends - Barber booking site",
     description: "Platform for users to discover and book appointments at local barbershops.",
     imageSrc: "https://img.icons8.com/?size=1x&id=18370&format=png",
@@ -28,7 +28,7 @@ const projects = [
     githubLink: "https://github.com/Suryodaya27/barber"
   },
   {
-    id: 3,
+    id: 4,
     title: "Ecommerce website using ReactJs",
     description: "You can browse and see Products in this project, add them to your Cart and Wishlist, and update both your cart and wishlist.",
     imageSrc: "https://i.pinimg.com/originals/4a/38/7b/4a387bda853bca3782d73234c786a150.png",
@@ -36,7 +36,7 @@ const projects = [
     githubLink: "https://github.com/Suryodaya27/ecom"
   },
   {
-    id: 4,
+    id: 5,
     title: "NewsApp using ReactJs",
     description: "You can browse and see the most recent news for many categories in this project. To retrieve news, the newsapi API was used.",
     imageSrc: "https://www.freeiconspng.com/thumbs/news-icon/news-icon-24.png",
@@ -44,7 +44,7 @@ const projects = [
     githubLink: "https://github.com/Suryodaya27/news"
   },
   {
-    id: 5,
+    id: 6,
     title: "The MovieDB using SveltekitJs",
     description: "In this project, the tmdb API was used to retrieve data, and you can utilize the search filter to learn more about any movie.",
     imageSrc: "https://cdn-icons-png.flaticon.com/512/4221/4221419.png",
@@ -52,7 +52,7 @@ const projects = [
     githubLink: "https://github.com/Suryodaya27/movie"
   },
   {
-    id: 6,
+    id: 7,
     title: "Notes Maker",
     description: "You can create, edit, and delete notes in this project.",
     imageSrc: "https://cdn3d.iconscout.com/3d/premium/thumb/sticky-notes-6292787-5175966.png",
