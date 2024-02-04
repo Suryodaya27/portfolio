@@ -9,11 +9,11 @@ const projects = [
     description: "Generates mcq on users input data and it is a web-based platform designed to offer users an engaging way to test their knowledge",
     imageSrc: "https://img.icons8.com/?size=80&id=114416&format=png",
     liveLink: "https://prep-buddy-next.vercel.app",
-    githubLink: "https://github.com/Suryodaya27/prpe-buddy"
+    githubLink: "https://github.com/Suryodaya27/prpe-buddy-next"
   },
   {
     id: 2,
-    title: "Apna Cart - Online Grocery Store",
+    title: "Apna Mart - Online Grocery Store",
     description: "Platform for users to Buy groceries online with features such as cart updation and razorpay",
     imageSrc: "https://cdn-icons-png.flaticon.com/512/1261/1261163.png",
     liveLink: "https://youtu.be/-JezvLU1dow",
